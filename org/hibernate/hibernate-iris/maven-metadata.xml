@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.hibernate</groupId>
+  <artifactId>hibernate-iris</artifactId>
+  <versioning>
+    <release>1.0.0</release>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20210201115921</lastUpdated>
+  </versioning>
+</metadata>
